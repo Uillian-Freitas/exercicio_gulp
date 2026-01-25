@@ -1,0 +1,6 @@
+@use './config/variaveis';
+body {
+    font-family: variaveis.$fonte-padrao; 
+    background-color: variaveis.$cor-primaria;
+    color: variaveis.$cor-secundaria;
+}

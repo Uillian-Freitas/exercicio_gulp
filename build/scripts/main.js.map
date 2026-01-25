@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","names":["mostrarMensagem","console","log"],"sources":["main.js"],"mappings":"AAAA,SAASA,kBACPC,QAAQC,IAAI,8CACd,CAEAF","ignoreList":[],"sourcesContent":["function mostrarMensagem() {\r\n  console.log('JavaScript processado com sucesso pelo Gulp');\r\n}\r\n\r\nmostrarMensagem();\r\n"]}

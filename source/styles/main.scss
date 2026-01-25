@@ -1,0 +1,9 @@
+@use './config/variaveis';
+@use './config/reset';
+@use './global';
+
+body {
+    font-family: variaveis.$fonte-padrao; 
+    background-color: variaveis.$cor-primaria;
+    color: variaveis.$cor-secundaria;
+}
